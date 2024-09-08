@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://feomwada.github.io/sitemap/sitemap.txt
